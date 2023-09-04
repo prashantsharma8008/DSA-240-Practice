@@ -1,0 +1,30 @@
+[33mcommit bf11bdda2cf88c7be945304517b90879a9ce9f29[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Prashant Sharma <137370860+prashantsharma8008@users.noreply.github.com>
+Date:   Sun Sep 3 01:45:51 2023 +0530
+
+     Ths code reverse the sequence of entered digit
+
+[33mcommit f30869c540aaabec737067eb4ffba13449ee20f5[m
+Merge: 8e814d3 b41f627
+Author: Prashant Sharma <137370860+prashantsharma8008@users.noreply.github.com>
+Date:   Sun Sep 3 00:51:40 2023 +0530
+
+    Merge branch 'main' of https://github.com/prashantsharma8008/DSA-240-Practice
+
+[33mcommit 8e814d3ae86d2611a421865949f86eaace8b624f[m
+Author: Prashant Sharma <137370860+prashantsharma8008@users.noreply.github.com>
+Date:   Sun Sep 3 00:49:57 2023 +0530
+
+    sum of cubes integers
+
+[33mcommit b41f6277630276b11c29fe168450d6d67a335a39[m
+Author: Prashant Sharma <137370860+prashantsharma8008@users.noreply.github.com>
+Date:   Tue Aug 22 22:06:45 2023 +0530
+
+    Create README.md
+
+[33mcommit db5300dde7f8298338149e0976fbaa8ea646a84b[m
+Author: Prashant Sharma <137370860+prashantsharma8008@users.noreply.github.com>
+Date:   Tue Aug 22 22:04:41 2023 +0530
+
+    This my first repository
